@@ -1,3 +1,10 @@
+// Les lignes GIT
+// --------------
+// git branch -M main
+// git remote add origin https://github.com/jbsainteve/Javascript-Torch-Camera-Animation.git
+// git push -u origin main
+
+
 let CANVAS, CTX, VIDEO;
 const COLOR =[0,50,190];
 const THRESHOLD=80;
