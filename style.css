@@ -1,0 +1,27 @@
+* {
+    /* border: 1px solid green; */
+    margin: 0;
+    /* padding: 0; */
+    box-sizing: border-box;
+}
+
+body{
+    background:black;
+}
+.container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+p{
+    color:azure;
+    text-align: center;
+}
+canvas{
+    background:white;
+    /* position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%); */
+    width:80%;
+}
